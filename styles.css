@@ -1,0 +1,48 @@
+#menu{
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+.back-img{
+    position:relative;
+}
+.card-img-overlay{
+    color: #fff;
+    margin-top: 10%;
+    margin-left: 50%;
+    margin-right: 5%;
+    justify-content: right;        
+    text-align: right;
+   
+}
+#oscuro{
+filter: brightness(40%);
+}
+
+.linea1{
+    text-align: center;
+}
+.bot1{
+    font-weight: bold;
+}
+.bot2{
+    font-weight: bold;
+    color: #fff;
+}
+#personas{
+    margin-inline: 10%;
+}
+#formu{
+    margin-inline: 25%;
+}
+#botonverde{
+    background-color: rgb(85, 214, 24);
+    border-color: rgb(85, 214, 24);
+}
+#pie{
+    background: linear-gradient(to right, #022b4d, #154f5f);
+    color: #fff;
+    padding: 40px;
+    
+    
+
+}
